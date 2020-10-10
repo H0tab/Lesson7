@@ -21,7 +21,7 @@ namespace Lesson7.Controllers
         {
             new Company{Id = 1, Name = "Apple"},
             new Company{Id = 2, Name = "Samsung"},
-            new Company{Id = 3, Name = "Google"}
+            new Company{Id = 3, Name = "Gooloogooloo"}
         };
 
         public IActionResult Create()
